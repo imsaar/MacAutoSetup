@@ -19,6 +19,7 @@ brew "stow"
 brew "neovim"
 brew "kubectl"       # Kubernetes CLI
 brew "tailscale"     # Secure mesh VPN for homelab and remote access
+brew "diff-so-fancy"
 
 # Languages n stuff
 brew "python"
