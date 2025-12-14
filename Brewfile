@@ -44,8 +44,17 @@ cask "caffeine"
 cask "discord"
 cask "chatgpt"
 cask "shottr"
-cask "caffeine" 
-# cash "zoom" - I don't want to install this by default
+cask "caffeine"
+cask "claude"
+cask "firefox"
+cask "bartender"
+cask "claude-code"
+cask "google-chrome"
+cask "evernote"
+cask "zoom"
+cask "arduino-ide"
+# cask "sequel-ace" # mysql client
+# cask "copyclip" # install using app store
 
 # Fonts
 cask "font-jetbrains-mono-nerd-font"
