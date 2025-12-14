@@ -15,6 +15,9 @@ alias go='git checkout '
 alias gcl='git clone '
 alias gk='gitk --all&'
 alias gx='gitx --all'
+alias gp='git push'
+alias gca='git commit -a'
+
 
 # Prefer GNU tools over BSD ones
 alias sed="gsed"
