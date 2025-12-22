@@ -53,6 +53,8 @@ cask "google-chrome"
 cask "evernote"
 cask "zoom"
 cask "arduino-ide"
+cask "atext"
+cask "dropbox"
 # cask "sequel-ace" # mysql client
 # cask "copyclip" # install using app store
 
