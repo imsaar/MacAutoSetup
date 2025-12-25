@@ -59,15 +59,15 @@ as well as try managing your own config for a bit. You will learn things. Also r
 ### ✅ If you have Git
 
 ```sh
-git clone https://github.com/NLaundry/MacAutoSetup.git ~/Projects/MacAutoSetup
-cd ~/Projects/MacAutoSetup
+git clone https://github.com/imsaar/MacAutoSetup.git ~/code/MacAutoSetup
+cd ~/code/MacAutoSetup
 ./bootstrap.sh
 ```
 
 ### 🌀 If you only have curl (fresh macOS install)
 
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/NLaundry/MacAutoSetup/main/bootstrap-nogit.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/imsaar/MacAutoSetup/main/bootstrap-nogit.sh)
 ```
 
 This will:
