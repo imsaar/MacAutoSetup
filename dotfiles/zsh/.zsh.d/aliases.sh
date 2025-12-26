@@ -17,6 +17,7 @@ alias gk='gitk --all&'
 alias gx='gitx --all'
 alias gp='git push'
 alias gca='git commit -a'
+alias gco='git checkout'
 
 
 # Prefer GNU tools over BSD ones
