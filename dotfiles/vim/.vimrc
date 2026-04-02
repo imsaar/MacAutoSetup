@@ -124,3 +124,7 @@ vnoremap <C-c> "*y
 
 " https://www.sitepoint.com/effective-rails-development-vim/
 " set tags=~/code/tags;
+
+" match blocks
+packadd! matchit
+
