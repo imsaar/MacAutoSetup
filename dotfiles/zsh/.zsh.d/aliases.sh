@@ -3,7 +3,7 @@ alias db="cd ~/DB && nvim ~/DB/index.md"
 # Ali Rizvi faves
 alias cls=clear
 alias r=rails
-alias ll='ls -al'
+alias ll='eza -al --icons'
 
 # git aliases
 alias gs='git status '
@@ -19,7 +19,6 @@ alias gp='git push'
 alias gca='git commit -a'
 alias gco='git checkout'
 
-
 # Prefer GNU tools over BSD ones
 alias sed="gsed"
 alias awk="gawk"
@@ -32,6 +31,7 @@ alias ta='todo.sh add'
 alias tl='todo.sh list'
 alias tp='todo.sh pri'
 alias te='nvim ~/DB/todo.txt' # let's me just take a look at the todo file
+alias vi=nvim
 
 # misc
 #alias less="less --RAW-CONTROL-CHARS"

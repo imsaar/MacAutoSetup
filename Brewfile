@@ -4,9 +4,14 @@ tap "jorgerojas26/lazysql"
 # CLI Tools
 brew "git"
 brew "fzf"
+brew "fd"
+brew "try"
 brew "ripgrep"
 brew "bat"
+brew "eza"
 brew "htop"
+brew "btop"
+brew "lazydocker"
 brew "lazygit"
 brew "lazysql"
 brew "awscli"
@@ -16,12 +21,14 @@ brew "gh"
 brew "delta"
 brew "tmux"
 brew "stow"
+brew "mise"
 brew "neovim"
 brew "kubectl"       # Kubernetes CLI
 brew "tailscale"     # Secure mesh VPN for homelab and remote access
 brew "diff-so-fancy"
+brew "zoxide"
 
-# Languages n stuff
+# Languages n stuff - reconsider with mise
 brew "python"
 brew "pipx"
 brew "node"
