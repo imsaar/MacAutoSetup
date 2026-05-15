@@ -8,5 +8,10 @@ plug "zap-users/zsh-syntax-highlighting"
 plug "wintermi/zsh-brew"
 plug "MichaelAquilina/zsh-you-should-use"
 
+plug "zsh-users/zsh-history-substring-search"
+plug "zsh-users/zsh-autosuggestions"
+plug "Automaat/zsh-clean-history"
+
+
 autoload -Uz compinit
 compinit
